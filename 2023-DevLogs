@@ -231,3 +231,11 @@ is an upright CapsuleCollider. Of course it doesn't work with 2d colliders. The 
 systems have no relation to each other. for 2d physics Unity uses "Box2d", for 3d physics it uses 
 "PhysX". If you want to use the CharacterController you have to use 3d colliders (SphereCollider, 
 CapsuleCollider, BoxCollider, MeshCollider).
+
+
+#100DaysOfCode #R7 #Day87
+#100DaysofGameDev #R3 #Day61
+Jan29, 2023
+Today I was able to learn how to make camera move with 2d Character and also implement 
+jumping with caching. 
+https://youtu.be/Adpf54A8cvs
