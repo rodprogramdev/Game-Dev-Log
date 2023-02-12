@@ -277,3 +277,14 @@ Feb11, 2023
 Add walk animation test
 https://youtu.be/pdfRFkZFyk0
 
+
+
+#100DaysOfCode #R7 #Day94
+#100DaysofGameDev #R3 #Day67
+Feb12, 2023
+Day35
+Set up respawnPoint OntriggerEnter2d and solve issue of respawning not working
+Thank you ceandros. I found the problem, actually it was an update 
+made on march 2019. CharacterController was overriding GameObject position. 
+Going to Edit > Project Settings > Physics, then click on the checkmark "Auto Sync Transforms" the issue was solved. 
+https://answers.unity.com/questions/1685869/transform-position-not-working-on-trigger.html
