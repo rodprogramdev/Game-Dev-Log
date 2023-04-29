@@ -400,9 +400,57 @@ https://youtu.be/AEYYVRzA6Og
 
 
 
-#100DaysOfCode #R8 #Day7
+#100DaysOfCode #R8 #Day9
 #100DaysofGameDev #R3 #Day80
 April 21, 2023
 Finally solved the issue of the arrow not changing direction for the game
 Datu's Quest
 https://youtu.be/96xmUUP-jys
+
+
+
+#100DaysOfCode #R8 #Day8
+#100DaysofGameDev #R3 #Day81
+April 23, 2023
+Add a new monster and implement patrolling script. And also solved the issue for 
+SOLVED] WebGL Build Error - "Unable to parse Build/[File 
+https://youtu.be/Tyg18xC7Vuk
+
+
+#100DaysOfCode #R8 #Day9
+#100DaysofGameDev #R3 #Day82
+April 24, 2023
+Was able to implement a new feature effect for the game Datu's quest dash effect.
+
+#100DaysOfCode #R8 #Day10
+#100DaysofGameDev #R3 #Day83
+April 26, 2023
+Day 48
+- Create audio manager
+- Solve bug with level music loop
+- Solve bug with player transition between levels
+- Implement health pickup and player death effect and add new tile sets - WIP
+https://youtu.be/Dp2m0FOTiMQ
+
+#100DaysOfCode #R8 #Day11
+#100DaysofGameDev #R3 #Day84
+April 27, 2023
+- Create a new enemy 
+- Test creating fireflies and test updating MainMenu layout
+https://youtu.be/Xp8XD46--FU
+
+#100DaysOfCode #R8 #Day12
+#100DaysofGameDev #R3 #Day85
+April 28, 2023
+- Draw Main Character
+- Composed a new Level 1 music background
+- Implement Pickup effect for Dash ability
+https://youtu.be/EmW75BzppiU
+
+#100DaysOfCode #R8 #Day13
+#100DaysofGameDev #R3 #Day86
+April 29, 2023
+#screenshotSaturday
+- Practice adding post processing
+- Studied some lighting 2d effects
+https://youtu.be/-XAsQVzulnY
