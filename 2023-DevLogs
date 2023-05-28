@@ -715,3 +715,22 @@ Had to sleep on it to figure out what was happening :)
 - Work on some tilest improvements and also for the archer frames for the game 
 Legend of the Curse 
 https://youtu.be/OlOHG44qsPI
+
+#100DaysOfCode #R8 #Day43
+#100DaysofGameDev #R4 #Day14
+#indiegamedev #indiegames #gameJam
+Day 28
+May 28, 2023
+- Was able to add a new enemy art
+- Was also able to work on a side project prototype for my first entry in a game jam today.
+I encountered a lot of issues with setting up the 2d lighting renderer for URP. 
+- Learned about sprite materials for sprite lit setup with URP
+https://youtu.be/ZvjRvFVl7qU
+
+https://forum.unity.com/threads/2d-lighting-not-working-on-tilemap.718394/
+https://www.google.com/search?client=firefox-b-d&q=2D+renderer+data+must+be+assigned+to+your+universal+rendere+pipeline+asset+or+camera&nfpr=1&sa=X&ved=2ahUKEwiQ4sn5lZj_AhXM1jgGHRbwBz8QvgUoAXoECAgQAg&biw=1366&bih=682&dpr=1
+https://stackoverflow.com/questions/57846226/how-to-change-scenes-in-unity-with-any-input-key-pressed-or-mouse-clicked
+https://itch.io/t/927410/the-webgl-version-of-my-game-is-not-loading
+https://forum.unity.com/threads/2d-renderer-in-universal-render-pipeline-in-2019-3.829851/
+https://stackoverflow.com/questions/57846226/how-to-change-scenes-in-unity-with-any-input-key-pressed-or-mouse-clicked
+https://jordancassady.medium.com/how-to-upgrade-materials-to-urp-in-unity-2021-2-and-above-3f1274656989
