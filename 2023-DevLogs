@@ -734,3 +734,28 @@ https://itch.io/t/927410/the-webgl-version-of-my-game-is-not-loading
 https://forum.unity.com/threads/2d-renderer-in-universal-render-pipeline-in-2019-3.829851/
 https://stackoverflow.com/questions/57846226/how-to-change-scenes-in-unity-with-any-input-key-pressed-or-mouse-clicked
 https://jordancassady.medium.com/how-to-upgrade-materials-to-urp-in-unity-2021-2-and-above-3f1274656989
+
+
+
+---
+#100DaysOfCode #R8 #Day44
+#100DaysofGameDev #R4 #Day15
+#indiegamedev #indiegames #metroidvania
+Day 29
+May 29, 2023
+- add skull animation and add scene autoload.
+
+https://docs.unity3d.com/ScriptReference/SceneManagement.Scene-buildIndex.html
+
+https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html
+
+https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html
+
+https://docs.unity3d.com/ScriptReference/KeyCode.html
+
+https://youtu.be/zyEntvm-Wms
+
+NOTE: You will need to go to Build Settings - Drag your scenes in order you want them to be loaded in your scene.
+
+https://user-images.githubusercontent.com/44669373/241754639-7502ead4-decd-4904-a71a-2d31840ff676.png
+
