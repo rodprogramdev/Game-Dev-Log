@@ -1088,3 +1088,71 @@ July2
 - Was able to work on animating the player getting hit.
 https://youtu.be/lQmjGY9uE6k
 
+
+---
+#100DaysOfCode #R8 #Day78
+#100DaysofGameDev #R4 #Day47
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day64 @datusquest2023
+July3
+- Tried cleaning up some of the environment slopes
+https://youtu.be/4pJlf74hpBE
+
+---
+#100DaysOfCode #R8 #Day79
+#100DaysofGameDev #R4 #Day48
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day65 @datusquest2023
+July 4
+- Create a playerhurt sound effect and some artwork with fire on a stake.
+https://youtu.be/nGLfjpSlTm4
+
+
+
+---
+#100DaysOfCode #R8 #Day80
+#100DaysofGameDev #R4 #Day49
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day66 @datusquest2023
+July 5
+https://youtu.be/LV-GtW9jscs
+
+
+---
+#100DaysOfCode #R8 #Day81
+#100DaysofGameDev #R4 #Day50
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day67 @datusquest2023
+July 6
+- Understood headers in C# better, also worked on animating the skull head Santelmo enemy.
+https://youtu.be/bstEXsNl5CI
+
+
+---
+#100DaysOfCode #R8 #Day82
+#100DaysofGameDev #R4 #Day51
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day68 @datusquest2023
+July 7, 2023
+- Setup Level Title UI, still studying concept of state machines.
+https://youtu.be/U4cJcbnbZy4
+
+---
+#100DaysOfCode #R8 #Day83
+#100DaysofGameDev #R4 #Day52
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day69 @datusquest2023
+July 8, 2023
+-I solved the animation not working when we transition from main menu when we hit play however, 
+got another bug that is because of the fall detector being attached to the player. Going to need to debug it again.
+https://youtu.be/40KcDCpsNgs
+
+---
+#100DaysOfCode #R8 #Day84
+#100DaysofGameDev #R4 #Day53
+#indiegamedev #indiegames #metroidvania #unity2d 
+Day70 @datusquest2023
+July 9, 2023
+- Add Baboy Ramo Artwork Enemy
+https://youtu.be/aQCp60IPQUw
+
