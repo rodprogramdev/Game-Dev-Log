@@ -1502,5 +1502,6 @@ Aug24, 2023
 a jump on top of spider enemy to kill it test.
 Aug24, 2023 @datusquest2023
  #indiegamedev #metroidvania
+V1.2.3.0
 - Was able to implement walk animatino and solved how the player walk cycle was not transitioning to jump. Also tested a 
 jump on top of spider enemy to kill it. Animator can be really challenging to figure out :)
