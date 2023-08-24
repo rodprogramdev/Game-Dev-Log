@@ -1493,6 +1493,14 @@ https://rodprogramdev.itch.io/datus-quest
 ---
 
 ## POST-RELEASE DATU's Quest
-
-Was able to add a speed up feature with the use of the left shift key.
 Aug 23, 2023
+Was able to add a speed up feature with the use of the left shift key.
+
+
+Aug24, 2023
+- Was able to implement walk animatino and solved how the player walk cycle was not transitioning to jump. Also tested 
+a jump on top of spider enemy to kill it test.
+Aug24, 2023 @datusquest2023
+ #indiegamedev #metroidvania
+- Was able to implement walk animatino and solved how the player walk cycle was not transitioning to jump. Also tested a 
+jump on top of spider enemy to kill it. Animator can be really challenging to figure out :)
